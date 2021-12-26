@@ -1,5 +1,5 @@
 # Admission-form
-project using python
+#project using python
 ..................................................................................................................................................
 from tkinter import *
 from tkinter import messagebox
